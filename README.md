@@ -18,13 +18,13 @@ Command: br
 
 Output: Shows all local brnches
 
-Command: br <string> 
+Command: br *string* 
   
   Example: br multi
   
   Output: Show branches names containing a substring
 
-Command: br <number>
+Command: br *number*
   
   Example: br 2
   
