@@ -5,7 +5,7 @@ Edit your local aliases bash file:
 
 > vim ~/.bash_aliases
 
-Copy the content of th efile into this file
+Copy the content of the file into this file
 
 Apply change: 
 
