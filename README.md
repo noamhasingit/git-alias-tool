@@ -9,7 +9,7 @@ Copy the content of th efile into this file
 
 Apply change: 
 
-> . vim ~/.bash_aliases
+> . ~/.bash_aliases
 
 ### git-alias-br.sh ####
 The alias show and change git branches, similer to "git co" and "git co -f"
