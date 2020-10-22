@@ -47,5 +47,5 @@ do
   fi
 counter=$((counter=counter+1))
 done < "$input"
-echo -e "\e[92m"
+tput sgr0
 }
