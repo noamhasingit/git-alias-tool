@@ -42,7 +42,6 @@ do
      done
      echo ""
      (git co $FORCE $line)
-     export PS1="$line>"
      break 
   fi
 counter=$((counter=counter+1))
